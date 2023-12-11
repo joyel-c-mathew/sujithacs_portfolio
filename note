@@ -1,0 +1,281 @@
+     fav icon 
+      link rel="icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/541/541957.png"
+this to made icon like logo to our web page
+ and type= image/xicon
+
+
+ universal selecto sympol = *
+
+ font family to change  font style in our web page
+
+ googl font to change font style of our web page and we can select the font style from web page
+ just search google fonts and copy link of web page  and past  on our html pgm file
+ but we can not see it on our web page so we go to our google font page and select our previous selected font and scrool down then copy
+ from font family
+and paste  it on style.css folder in font family
+
+
+font aweosome cdn(condent delivrey network) to give fonts to our web page and some of the fonts are paid 
+cdn means it gives content on one website it gives to our website
+position
+<nav>--is navigation bar
+      display flex -is moving side by side
+
+
+id - is using css #
+class-is using css .
+space-between=end to end side
+align center= is verticlly center str
+inline-block is it respects bottom padding
+list dot is hidding to list-style:none; 
+pesudo= class- it is keyword add to selector that is specifis a special state of selected elements.
+visite,active,hover
+
+
+position realtive
+position absulte-realtive position realted to abulte
+
+
+
+grid tag=> is using coloum and row 
+1frame=255px equal 
+1rem=60px
+
+
+==========
+
+
+joels note
+
+
+===========
+
+
+
+fav icon 
+link rel="icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/541/541957.png"
+this to made icon like logo to our web page
+and type= image/xicon
+
+
+universal selecto sympol = *
+
+font family to change  font style in our web page
+
+googl font to change font style of our web page and we can select the font style from web page
+just search google fonts and copy link of web page  and past  on our html pgm file
+but we can not see it on our web page so we go to our google font page and select our previous selected font and scrool down then copy
+from font family
+and paste  it on style.css folder in font family
+
+
+font aweosome cdn(condent delivrey network) to give fonts to our web page and some of the fonts are paid 
+cdn means it gives content on one website it gives to our website
+
+
+tags
+
+nav tag to create navigation tag
+
+1)display flex used to move side by side  TO CENTER
+2)justyfy content to horizontal center
+3)aligh item to verticaly center
+this 3 property used to move our icon to exact center
+
+
+
+id s using
+id= #
+class= .
+
+
+
+2)justyfy content    space between is used to it start from two ends
+
+3)justyfy  content    center it starts from center   in horizontal
+
+4)aligh item  verticaly ai varum  center thane
+
+5)list-style none; is used to hide dots
+6) text decoration to remove underline
+
+7)) is used to we can make space between worrds
+font weight to give bold text
+
+7) pesudo class is a key word added t0 a selector thats specify a special state of  the selected element
+syntax
+selector :
+
+8)  display inline block it respect both top and bottom margins and padding
+
+9) postion relative normal postion il nilkallu
+10)  postion absolute   relative aii bedham ind  nammal eathilano kodukanne athille varru
+
+
+
+11) descentaent selector      parent child  to style  fav icon 
+link rel="icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/541/541957.png"
+this to made icon like logo to our web page
+and type= image/xicon
+
+
+universal selecto sympol = *
+
+font family to change  font style in our web page
+
+googl font to change font style of our web page and we can select the font style from web page
+just search google fonts and copy link of web page  and past  on our html pgm file
+but we can not see it on our web page so we go to our google font page and select our previous selected font and scrool down then copy
+from font family
+and paste  it on style.css folder in font family
+
+
+font aweosome cdn(condent delivrey network) to give fonts to our web page and some of the fonts are paid 
+cdn means it gives content on one website it gives to our website
+
+
+tags
+
+nav tag to create navigation tag
+
+1)display flex uusedto move side by side
+
+
+id s using
+id= #
+class= .
+
+
+
+2)justyfy content    space between is used to it start from two ends
+
+3)justyfy  content    center it starts from center   in horizontal
+
+4)aligh item  verticaly ai varum  center thane
+
+5)list-style none; is used to hide dots
+6) text decoration to remove underline
+
+7)) is used to we can make space between worrds
+font weight to give bold text
+
+7) pesudo class is a key word added t0 a selector thats specify a special state of  the selected element
+syntax
+selector :
+
+8)  display inline block it respect both top and bottom margins and padding
+
+9) postion relative normal postion il nilkallu
+10)  postion absolute   relative aii bedham ind  nammal eathilano kodukanne athille varru
+
+
+
+11) descentaent selector      parent child 
+fav icon 
+link rel="icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/541/541957.png"
+this to made icon like logo to our web page
+and type= image/xicon
+
+
+universal selecto sympol = *
+
+font family to change  font style in our web page
+
+googl font to change font style of our web page and we can select the font style from web page
+just search google fonts and copy link of web page  and past  on our html pgm file
+but we can not see it on our web page so we go to our google font page and select our previous selected font and scrool down then copy
+from font family
+and paste  it on style.css folder in font family
+
+
+font aweosome cdn(condent delivrey network) to give fonts to our web page and some of the fonts are paid 
+cdn means it gives content on one website it gives to our website
+
+
+tags
+
+nav tag to create navigation tag
+
+1)display flex uusedto move side by side
+
+
+id s using
+id= #
+class= .
+
+
+
+2)justyfy content    space between is used to it start from two ends
+
+3)justyfy  content    center it starts from center   in horizontal
+
+4)aligh item  verticaly ai varum  center thane
+
+5)list-style none; is used to hide dots
+6) text decoration to remove underline
+
+7)) is used to we can make space between worrds
+font weight to give bold text
+
+7) pesudo class is a key word added t0 a selector thats specify a special state of  the selected element
+syntax
+selector :
+
+8)  display inline block it respect both top and bottom margins and padding
+
+9) postion relative normal postion il nilkallu
+10)  postion absolute   relative aii bedham ind  nammal eathilano kodukanne athille varru
+
+
+
+11) descentaent selector      parent child 
+12) margin  13% 7% 0% 7%    ith clock wise vazhi ann povukaaa
+
+
+13)css grid system  is entire div ne colum um rows okee varuthukaa
+
+display grid is used we can give grid to our div means namuk rows colum vekkam
+
+
+ colum gap  kodukan colum gap
+ row gap kodukan row gap
+ grid templete colum   is tells colum size                        1 frame is equal to 225 px
+
+ 1 rem=60px
+
+
+ 14) p tag used to start with new line but spam tag used to we can start with our current line
+
+
+ 15) text aligh justyfy to make  paragraph in correct order
+
+ 16) objject postion property i used to specify how a image or video should be postion with in  x and y coordinate
+
+17) key frame used to animation
+
+linear gradient used to compination of color namuku vekkannn
+
+
+ exact centrr k varuthan 3 propertty und
+
+ 18) footer tag
+
+ --
+
+ 3 property use to put center we have more content
+ dispaly flex  center
+ justfy content center  
+  alighn items  center
+ 
+
+
+ text alighn center kodutha center avum but we have less  content
+
+
+ flot left = left ninnu floot akum
+
+ flot right = right ninnu start akkum
+
+
+float right koduthal ight ninnu start akkum
+float left paranjal left niinu start akkum
